@@ -30,4 +30,4 @@ This Power BI dashboard analyzes Maven Market’s sales data to uncover trends i
 * Low-performing regions flagged.
   
 ## 8. Screenshot
-This is How Dashboard looks like: Financial Dashboard.png
+This is How Dashboard looks like: [Maven Market Dashboard.png](https://github.com/debug-sejal/Maven-Market-Power-BI-Dashboard/blob/main/Maven%20Market.png)
